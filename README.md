@@ -1,9 +1,3 @@
-<!-- Centered intro and logos -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Nawazish Khan</h1>
 <p align="center">BTech CSE Student | Java & DSA Enthusiast | Building inside WSL</p>
 
@@ -52,9 +46,6 @@
 
 > I’m coding from WSL inside VS Code — running like a real Linux dev 😎
 
----
-
-## 📲 Connect with Me
 
 ---
 
