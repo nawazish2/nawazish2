@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nawazish Khan</h1>
-<p align="center">BTech CSE Student | Java & DSA Enthusiast | Building inside WSL</p>
 
 ---
 
@@ -45,7 +44,6 @@
 ## 🧩 Fun Fact
 
 > I’m coding from WSL inside VS Code — running like a real Linux dev 😎
-
 
 ---
 
