@@ -5,8 +5,8 @@
 ## 🚀 About Me
 
 - 🎓 I'm a **3rd-year Computer Science student**
-- 💻 Learning **Java**, mastering **DSA**
-- ⚙️ Working inside **WSL with VS Code**
+- 💻 Learning **c++**, mastering **DSA**
+
 - 🌐 Passionate about **Web Development**, **Projects**, and **Startups**
 - 📫 How to reach me: [nawazish2](https://github.com/nawazish2)
 
@@ -35,15 +35,13 @@
 
 ## 💼 Projects & Learning
 
-- 💡 **Learning Java + DSA** inside WSL
-- 📦 Actively pushing code to [Java repository](https://github.com/nawazish2/Java)
+- 💡 **Learning DSA C++** 
 - 🛠️ Working on personal dev setup and productivity tools
 
 ---
 
-## 🧩 Fun Fact
+]
 
-> I’m coding from WSL inside VS Code — running like a real Linux dev 😎
 
 ---
 
