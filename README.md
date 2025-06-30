@@ -63,5 +63,5 @@
 <p align="center">
   <a href="https://www.instagram.com/nawazish.khan_?igsh=bzl0eW9lNGdudHg2">Instagram</a> •
   <a href="https://x.com/nawazish_khan44">X (Twitter)</a> •
-  <a href="https://www.linkedin.com/in/nawazishkhan">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nawazishkhan8/">LinkedIn</a>
 </p>
