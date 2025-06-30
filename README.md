@@ -4,22 +4,27 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a **3rd-year Computer Science student**
-- 💻 Learning **c++**, mastering **DSA**
-
-- 🌐 Passionate about **Web Development**, **Projects**, and **Startups**
-- 📫 How to reach me: [nawazish2](https://github.com/nawazish2)
-
+- 👋 Hi, I'm **Nawazish Khan**
+- 🎓 A passionate **3rd-year Computer Science student**
+- 💻 Currently learning **Data Structures and Algorithms (DSA)** using **C++**
+- 🌐 Exploring **Web Development** (HTML, CSS, JavaScript, React)
+- 🧠 Interested in **AI**, **LLMs**, and **Open Source**
+- 📚 Always curious to learn new technologies and improve my skills!
+  
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Algorithm-Dark.svg" alt="DSA" width="60" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
 </p>
 
 ---
@@ -35,13 +40,9 @@
 
 ## 💼 Projects & Learning
 
-- 💡 **Learning DSA C++** 
-- 🛠️ Working on personal dev setup and productivity tools
-
----
-
-]
-
+- 📚 Currently learning **Data Structures and Algorithms (DSA)** using **C++**
+- 🌐 Exploring the basics of **Web Development** (HTML, CSS, JavaScript)
+- 🚀 Beginner on a journey to build real-world projects and grow as a developer
 
 ---
 
