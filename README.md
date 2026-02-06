@@ -3,6 +3,7 @@
 ---
 
 🚀 About Me
+
 👋 Hi, I'm Nawazish Khan
 🎓 B.Tech CSE Student @ IKGPTU (6th Semester)
 🛠️ Completed Industrial Training at Cyber Core Institute
@@ -10,19 +11,6 @@
 🌐 Exploring the intersection of Web Development and LLMs
 🍎 Developing on macOS
 
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" />
-</p>
-
----
 
 ## 📲 Connect with Me
 
