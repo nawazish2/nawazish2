@@ -2,16 +2,13 @@
 
 ---
 
-## 🚀 About Me
-
-- 👋 Hi, I'm **Nawazish Khan**
-- 🎓 A passionate **3rd-year Computer Science student**
-- 💻 Currently learning **Data Structures and Algorithms (DSA)** using **C++**
-- 🌐 Exploring **Web Development** (HTML, CSS, JavaScript, React)
-- 🧠 Interested in **AI**, **LLMs**, and **Open Source**
-- 📚 Always curious to learn new technologies and improve my skills!
-  
----
+🚀 About Me
+👋 Hi, I'm Nawazish Khan
+🎓 B.Tech CSE Student @ IKGPTU (6th Semester)
+🛠️ Completed Industrial Training at Cyber Core Institute
+💻 Currently mastering DSA in C++ while building full-stack apps with Next.js & TypeScript
+🌐 Exploring the intersection of Web Development and LLMs
+🍎 Developing on macOS
 
 ## 🛠️ Languages and Tools
 
@@ -24,23 +21,6 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawazish2&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazish2&layout=compact&theme=radical" width="300"/>
-</p>
-
----
-
-## 💼 Projects & Learning
-
-- 📚 Currently learning **Data Structures and Algorithms (DSA)** using **C++**
-- 🌐 Exploring the basics of **Web Development** (HTML, CSS, JavaScript)
-- 🚀 Beginner on a journey to build real-world projects and grow as a developer
 
 ---
 
@@ -62,6 +42,6 @@
 
 <p align="center">
   <a href="https://www.instagram.com/nawazish.khan_?igsh=bzl0eW9lNGdudHg2">Instagram</a> •
-  <a href="https://x.com/nawazish_khan44">X (Twitter)</a> •
+  <a href="https://x.com/nawazish_khan1">X (Twitter)</a> •
   <a href="https://www.linkedin.com/in/nawazishkhan8/">LinkedIn</a>
 </p>
