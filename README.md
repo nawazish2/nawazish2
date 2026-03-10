@@ -9,7 +9,6 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE** @ IKGPTU — currently in 6th Semester
-- 🛠️ Completed **Industrial Training** at Cyber Core Institute
 - 🌐 Currently learning and building as a **Full-Stack Developer** with **Next.js, TypeScript & Node.js**
 
 ---
