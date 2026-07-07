@@ -16,9 +16,6 @@ B.Tech CSE student at IKGPTU, 6th semester. I build full-stack web apps and writ
 
 ## Projects
 
-**[Arjuna Agri](https://github.com/nawazish2/arjuna-agri)** — AI-powered precision agriculture platform. Built at Hack-N-Win 3.0 with a team of 4. Covers soil analysis, disease detection, yield prediction, and live market prices.
-`Next.js · TypeScript · Anthropic API · Supabase`
-
 **[Rental Platform](https://github.com/nawazish2/rental-platform)** — Full-stack rental listings and move-in app. JWT auth, listing management, search and filtering.
 `MongoDB · Express · React · Node.js`
 
