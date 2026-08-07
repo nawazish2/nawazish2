@@ -1,39 +1,35 @@
-# Hi, I'm Nawazish 👋
+# Nawazish Khan
 
-B.Tech CSE student at IKGPTU, 6th semester. I build full-stack web apps and write about what I learn along the way.
+I build useful software and learn systems by taking them apart.
 
- Currently deep into backend systems, databases, and how things actually work at scale.
+I'm a software engineer based in Delhi, working mostly with Swift and TypeScript.
+I like small tools, clear interfaces, and backends that do not surprise you.
 
----
+I study computer science at IKGPTU and write down what I learn along the way.
 
-## Tech Stack
+## Selected work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,mongodb,redis,mysql,postgres,prisma,docker,git&theme=dark" />
-</p>
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [TokenBar](https://github.com/nawazish2/tokenbar) | A local-only macOS menu bar app for tracking Claude, Codex, Cursor, and Grok quotas. | Swift, SwiftUI, AppKit |
+| [AlgoViz](https://github.com/nawazish2/algoviz) | Makes gradient descent, attention, random forests, and K-means explorable in the browser. | TypeScript |
+| [ChaiTailwind](https://github.com/nawazish2/chai-tailwind) | A tiny utility-first CSS engine built from scratch around `chai-*` classes. | JavaScript, DOM APIs |
 
----
+## Working set
 
-## Projects
+`TypeScript` `Swift` `React` `Next.js` `Node.js` `PostgreSQL` `MongoDB`
+`Redis` `Docker` `Git`
 
-**[Rental Platform](https://github.com/nawazish2/rental-platform)** — Full-stack rental listings and move-in app. JWT auth, listing management, search and filtering.
-`MongoDB · Express · React · Node.js`
+## Notes
 
-**[ChaiTailwind](https://github.com/nawazish2/chaitailwind)** — A CSS utility engine in pure vanilla JS. Parses `chai-*` class names into inline styles with hover, dark mode, and responsive breakpoints.
-`Vanilla JS · DOM API`
+Sometimes I write the lesson down before I forget it. Mostly JavaScript, backend
+engineering, and notes from whatever I am building.
 
----
-
-## Writing
-
-I write about things I'm learning — JavaScript, backend concepts, web dev in general.
-→ [nawazish.hashnode.dev](https://nawazish.hashnode.dev)
+[Read my writing](https://nawazish.hashnode.dev) ·
+[Website](https://nawazish.site/) ·
+[LinkedIn](https://www.linkedin.com/in/nawazishkhan8/) ·
+[X](https://x.com/nawazish_khan1) ·
+[Email](mailto:knawazish153@gmail.com)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-[Portfolio]() · [LinkedIn](https://www.linkedin.com/in/nawazishkhan8/) · [X](https://x.com/nawazish_khan1) · [Email](knawazish153@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=nawazish2&color=blueviolet&style=flat-square" alt="Profile Views"/>
