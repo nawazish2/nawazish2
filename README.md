@@ -1,36 +1,34 @@
-# Nawazish Khan
+## Hi, I'm Nawazish 👋
 
-I build useful software and learn systems by taking them apart.
+I take systems apart to learn them, then ship small tools people actually use.
 
-I'm a software engineer based in Delhi, working mostly with Swift and TypeScript.
-I like small tools, clear interfaces, and backends that do not surprise you.
+Software engineer writing **Swift** for macOS and **TypeScript** for the web.
+CS student at IKGPTU ('27) · Delhi · Open to **SDE internships**.
 
-I study computer science at IKGPTU and write down what I learn along the way.
+[Website](https://nawazishkhan.in) · [Blog](https://nawazish.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/nawazishkhan8/) · [X](https://x.com/nawazish_khan1) · [Email](mailto:knawazish153@gmail.com)
 
-## Selected work
+### Projects
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [CampusForms](https://github.com/nawazish2/campusforms) | University form builder with database-enforced anonymity and public notice board. | Next.js, Supabase, PostgreSQL |
-| [Cuprim](https://github.com/nawazish2/cuprim) | A local-only macOS menu bar app for tracking Claude, Codex, Cursor, and Grok quotas. | Swift, SwiftUI, AppKit |
-| [AlgoViz](https://github.com/nawazish2/algoviz) | Makes gradient descent, attention, random forests, and K-means explorable in the browser. | TypeScript |
-| [ChaiTailwind](https://github.com/nawazish2/chai-tailwind) | A tiny utility-first CSS engine built from scratch around `chai-*` classes. | JavaScript, DOM APIs |
+| Project | What it does | Stack |
+|---|---|---|
+| **[Cuprim](https://github.com/nawazish2/cuprim)** · [download](https://github.com/nawazish2/cuprim/releases) | Claude, Codex, Cursor & Grok quotas in your Mac menu bar | Swift, SwiftUI |
+| **[CampusForms](https://github.com/nawazish2/campusforms)** · [live](https://campusforms.vercel.app) | University forms with anonymity enforced in Postgres | Next.js, Supabase |
+| **[AlgoViz](https://github.com/nawazish2/algoviz)** · [live](https://algoviz-ashen.vercel.app) | Gradient descent, attention & K-means you can play with | TypeScript |
+| **[LoudList](https://github.com/nawazish2/loudlist)** · [live](https://loudlist-tau.vercel.app) | Projects ranked by what people paid to be there | JavaScript |
+| **[ParkIt](https://github.com/nawazish2/parkit)** · [live](https://parkit-kappa.vercel.app) | Real-time smart parking with live slot updates | React, Node.js, Socket.io |
 
-## Working set
+### Open Source
 
-`TypeScript` `Swift` `React` `Next.js` `Node.js` `PostgreSQL` `MongoDB`
-`Redis` `Docker` `Git`
+[![Merged PRs](https://img.shields.io/github/issues-search?query=author%3Anawazish2%20is%3Apr%20is%3Amerged%20-user%3Anawazish2&label=merged%20PRs&style=flat-square&color=8957e5)](https://github.com/pulls?q=author%3Anawazish2+is%3Apr+is%3Amerged+-user%3Anawazish2)
+across [libredb-studio](https://github.com/libredb/libredb-studio), [zero-cost-crm](https://github.com/ConvoBrains/zero-cost-crm), [breakscale](https://github.com/xevrion/breakscale) and [invisible-notes](https://github.com/navyabijoy/invisible-notes).
 
-## Notes
+### Stack
 
-Sometimes I write the lesson down before I forget it. Mostly JavaScript, backend
-engineering, and notes from whatever I am building.
+![Tech stack](https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,nodejs,tailwind,postgres,supabase,mongodb,docker,git)
 
-[Read my writing](https://nawazish.hashnode.dev) ·
-[Website](https://nawazishkhan.in) ·
-[LinkedIn](https://www.linkedin.com/in/nawazishkhan8/) ·
-[X](https://x.com/nawazish_khan1) ·
-[Email](mailto:knawazish153@gmail.com)
+### Now
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔨 Polishing Cuprim
+- 📚 Learning SQL and system design
+
+<sub>Fun fact: Cuprim was called TokenBar, then Aloft. Naming is the hardest problem in CS.</sub>
