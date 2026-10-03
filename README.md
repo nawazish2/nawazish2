@@ -26,9 +26,5 @@ across [libredb-studio](https://github.com/libredb/libredb-studio), [zero-cost-c
 
 ![Tech stack](https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,nodejs,tailwind,postgres,supabase,mongodb,docker,git)
 
-### Now
 
-- 🔨 Polishing Cuprim
-- 📚 Learning SQL and system design
 
-<sub>Fun fact: Cuprim was called TokenBar, then Aloft. Naming is the hardest problem in CS.</sub>
