@@ -2,7 +2,7 @@
 
 **Full-stack developer building web apps with AI.** I like shipping things end to end, from the database to the deploy.
 
-CS student at IKGPTU (graduating 2027) · Open to SDE roles from **January 2027** · Remote or relocation
+CS student at IKGPTU · Available **January 2027** for a 6-month SDE internship (final-semester industry training), then full-time after graduating in June 2027 · Remote or relocation
 
 [Website](https://nawazishkhan.in) · [Résumé](https://nawazishkhan.in/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/nawazishkhan8/) · [Blog](https://nawazish.hashnode.dev) · [Email](mailto:knawazish153@gmail.com)
 
